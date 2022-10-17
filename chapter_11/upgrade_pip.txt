@@ -1,0 +1,5 @@
+python -m pip install --upgrade pip
+python -m pip install --upgrade package_name
+python -m pip install --user pytest
+python -m pip install --user package_name
+python -m pytest
